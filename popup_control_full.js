@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://4.bp.blogspot.com/-tt3TpFzJ8os/VzAx_2AtEwI/AAAAAAAAACA/FeKfBT451eM-NZih3mMnDfD4y-CtICaDQCLcB/s320/quan%2Bao%2Bnu%2Bgia%2Bre%2B%25281%2529.jpg' target='_blank'><img src='https://jgoogle.googlecode.com/svn/trunk/dao-tao-seo-chuyen-sau.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://thoitrangredephcm.blogspot.com/' target='_blank'><img src='https://4.bp.blogspot.com/-tt3TpFzJ8os/VzAx_2AtEwI/AAAAAAAAACA/FeKfBT451eM-NZih3mMnDfD4y-CtICaDQCLcB/s320/quan%2Bao%2Bnu%2Bgia%2Bre%2B%25281%2529.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
